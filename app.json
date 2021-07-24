@@ -58,7 +58,7 @@
     "PM_AUTO_BAN": {
       "description": "Ini berguna Untuk Mengaktifkan pesan otomatis di room chat anda.",
       "value": "False",
-      "required": true
+      "required": false
     },
     "ANTI_SPAMBOT": {
       "description": "Kicks spambots from groups after they join. [Requires admin powers in groups to kick.]",
